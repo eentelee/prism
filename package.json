@@ -1,0 +1,9 @@
+{
+  "name": "prism-daily-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "api:dev": "node server/index.mjs",
+    "test:api": "node --test server/__tests__/*.test.mjs"
+  }
+}

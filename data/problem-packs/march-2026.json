@@ -1,0 +1,1211 @@
+[
+  {
+    "date": "2026-03-01",
+    "code": "C1",
+    "title": "IMO Shortlist 2023 Combinatorics C1",
+    "statement": "Solve IMO Shortlist 2023 C1. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Combinatorics (C1)",
+    "topic": "Combinatorics",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-02",
+    "code": "C2",
+    "title": "IMO Shortlist 2023 Combinatorics C2",
+    "statement": "Solve IMO Shortlist 2023 C2. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Combinatorics (C2)",
+    "topic": "Combinatorics",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-03",
+    "code": "C3",
+    "title": "IMO Shortlist 2023 Combinatorics C3",
+    "statement": "Solve IMO Shortlist 2023 C3. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Combinatorics (C3)",
+    "topic": "Combinatorics",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-04",
+    "code": "C4",
+    "title": "IMO Shortlist 2023 Combinatorics C4",
+    "statement": "Solve IMO Shortlist 2023 C4. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Combinatorics (C4)",
+    "topic": "Combinatorics",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-05",
+    "code": "C5",
+    "title": "IMO Shortlist 2023 Combinatorics C5",
+    "statement": "Solve IMO Shortlist 2023 C5. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Combinatorics (C5)",
+    "topic": "Combinatorics",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-06",
+    "code": "C6",
+    "title": "IMO Shortlist 2023 Combinatorics C6",
+    "statement": "Solve IMO Shortlist 2023 C6. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Combinatorics (C6)",
+    "topic": "Combinatorics",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-07",
+    "code": "C7",
+    "title": "IMO Shortlist 2023 Combinatorics C7",
+    "statement": "Solve IMO Shortlist 2023 C7. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Combinatorics (C7)",
+    "topic": "Combinatorics",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-08",
+    "code": "C8",
+    "title": "IMO Shortlist 2023 Combinatorics C8",
+    "statement": "Solve IMO Shortlist 2023 C8. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Combinatorics (C8)",
+    "topic": "Combinatorics",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-09",
+    "code": "N1",
+    "title": "IMO Shortlist 2023 Number Theory N1",
+    "statement": "Solve IMO Shortlist 2023 N1. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Number Theory (N1)",
+    "topic": "Number Theory",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-10",
+    "code": "N2",
+    "title": "IMO Shortlist 2023 Number Theory N2",
+    "statement": "Solve IMO Shortlist 2023 N2. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Number Theory (N2)",
+    "topic": "Number Theory",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-11",
+    "code": "N3",
+    "title": "IMO Shortlist 2023 Number Theory N3",
+    "statement": "Solve IMO Shortlist 2023 N3. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Number Theory (N3)",
+    "topic": "Number Theory",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-12",
+    "code": "N4",
+    "title": "IMO Shortlist 2023 Number Theory N4",
+    "statement": "Solve IMO Shortlist 2023 N4. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Number Theory (N4)",
+    "topic": "Number Theory",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-13",
+    "code": "N5",
+    "title": "IMO Shortlist 2023 Number Theory N5",
+    "statement": "Solve IMO Shortlist 2023 N5. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Number Theory (N5)",
+    "topic": "Number Theory",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-14",
+    "code": "N6",
+    "title": "IMO Shortlist 2023 Number Theory N6",
+    "statement": "Solve IMO Shortlist 2023 N6. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Number Theory (N6)",
+    "topic": "Number Theory",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-15",
+    "code": "N7",
+    "title": "IMO Shortlist 2023 Number Theory N7",
+    "statement": "Solve IMO Shortlist 2023 N7. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Number Theory (N7)",
+    "topic": "Number Theory",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-16",
+    "code": "N8",
+    "title": "IMO Shortlist 2023 Number Theory N8",
+    "statement": "Solve IMO Shortlist 2023 N8. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Number Theory (N8)",
+    "topic": "Number Theory",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-17",
+    "code": "A1",
+    "title": "IMO Shortlist 2023 Algebra A1",
+    "statement": "Solve IMO Shortlist 2023 A1. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Algebra (A1)",
+    "topic": "Algebra",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-18",
+    "code": "A2",
+    "title": "IMO Shortlist 2023 Algebra A2",
+    "statement": "Solve IMO Shortlist 2023 A2. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Algebra (A2)",
+    "topic": "Algebra",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-19",
+    "code": "A3",
+    "title": "IMO Shortlist 2023 Algebra A3",
+    "statement": "Solve IMO Shortlist 2023 A3. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Algebra (A3)",
+    "topic": "Algebra",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-20",
+    "code": "A4",
+    "title": "IMO Shortlist 2023 Algebra A4",
+    "statement": "Solve IMO Shortlist 2023 A4. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Algebra (A4)",
+    "topic": "Algebra",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-21",
+    "code": "A5",
+    "title": "IMO Shortlist 2023 Algebra A5",
+    "statement": "Solve IMO Shortlist 2023 A5. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Algebra (A5)",
+    "topic": "Algebra",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-22",
+    "code": "A6",
+    "title": "IMO Shortlist 2023 Algebra A6",
+    "statement": "Solve IMO Shortlist 2023 A6. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Algebra (A6)",
+    "topic": "Algebra",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-23",
+    "code": "A7",
+    "title": "IMO Shortlist 2023 Algebra A7",
+    "statement": "Solve IMO Shortlist 2023 A7. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Algebra (A7)",
+    "topic": "Algebra",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-24",
+    "code": "A8",
+    "title": "IMO Shortlist 2023 Algebra A8",
+    "statement": "Solve IMO Shortlist 2023 A8. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Algebra (A8)",
+    "topic": "Algebra",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-25",
+    "code": "G1",
+    "title": "IMO Shortlist 2023 Geometry G1",
+    "statement": "Solve IMO Shortlist 2023 G1. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Geometry (G1)",
+    "topic": "Geometry",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-26",
+    "code": "G2",
+    "title": "IMO Shortlist 2023 Geometry G2",
+    "statement": "Solve IMO Shortlist 2023 G2. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Geometry (G2)",
+    "topic": "Geometry",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-27",
+    "code": "G3",
+    "title": "IMO Shortlist 2023 Geometry G3",
+    "statement": "Solve IMO Shortlist 2023 G3. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Geometry (G3)",
+    "topic": "Geometry",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-28",
+    "code": "G4",
+    "title": "IMO Shortlist 2023 Geometry G4",
+    "statement": "Solve IMO Shortlist 2023 G4. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Geometry (G4)",
+    "topic": "Geometry",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-29",
+    "code": "G5",
+    "title": "IMO Shortlist 2023 Geometry G5",
+    "statement": "Solve IMO Shortlist 2023 G5. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Geometry (G5)",
+    "topic": "Geometry",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-30",
+    "code": "G6",
+    "title": "IMO Shortlist 2023 Geometry G6",
+    "statement": "Solve IMO Shortlist 2023 G6. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Geometry (G6)",
+    "topic": "Geometry",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  },
+  {
+    "date": "2026-03-31",
+    "code": "G7",
+    "title": "IMO Shortlist 2023 Geometry G7",
+    "statement": "Solve IMO Shortlist 2023 G7. Write a full proof-based solution with clear claims and justification.",
+    "source": "IMO Shortlist 2023, Geometry (G7)",
+    "topic": "Geometry",
+    "answer_spec": {
+      "mode": "proof",
+      "check_strategy": "rubric-guided"
+    },
+    "rubric": {
+      "version": 1,
+      "max_points": 7,
+      "criteria": [
+        {
+          "id": "setup",
+          "label": "Key setup and useful observations",
+          "max_points": 2
+        },
+        {
+          "id": "argument",
+          "label": "Logical progression and valid proof steps",
+          "max_points": 3
+        },
+        {
+          "id": "conclusion",
+          "label": "Correct conclusion and edge-case handling",
+          "max_points": 2
+        }
+      ],
+      "hint_policy": {
+        "max_hints": 3,
+        "allow_final_answer": false,
+        "allow_full_proof": false
+      }
+    },
+    "published": true
+  }
+]

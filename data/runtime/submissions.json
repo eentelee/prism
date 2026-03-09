@@ -1,0 +1,39 @@
+[
+  {
+    "id": "4302e7e2-197f-4dfa-8745-b51d8370c13d",
+    "date": "2026-03-08",
+    "username": "EulerFan",
+    "timezone": "Europe/Belgrade",
+    "problem_code": "C8",
+    "solution_text": "Let us consider ... therefore ... thus proved.",
+    "final_answer_text": "",
+    "is_correct": false,
+    "score": 3,
+    "feedback": "Needs more structure and explicit proof steps.",
+    "breakdown": [
+      {
+        "criterion_id": "setup",
+        "label": "Key setup and useful observations",
+        "max_points": 2,
+        "score": 1,
+        "note": "Partially satisfied."
+      },
+      {
+        "criterion_id": "argument",
+        "label": "Logical progression and valid proof steps",
+        "max_points": 3,
+        "score": 1,
+        "note": "Partially satisfied."
+      },
+      {
+        "criterion_id": "conclusion",
+        "label": "Correct conclusion and edge-case handling",
+        "max_points": 2,
+        "score": 1,
+        "note": "Partially satisfied."
+      }
+    ],
+    "elapsed_seconds": 81919,
+    "submitted_at": "2026-03-08T21:45:19.471Z"
+  }
+]

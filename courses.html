@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Home | Prism</title>
+<title>Courses | Prism</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/daily.css">
+<!-- Google Font -->
+<link rel="stylesheet" href="css/courses.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar">
+
+  <a class="logo" href="index.html">Prism</a>
+  
+
+  <div class="nav-links">
+    <a href="index.html"><img src="data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24'%3e%3cpath stroke='%23222222' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 21v-7.4c0-.56 0-.84.109-1.054a1 1 0 0 1 .437-.437C9.76 12 10.04 12 10.6 12h2.8c.56 0 .84 0 1.054.109a1 1 0 0 1 .437.437C15 12.76 15 13.04 15 13.6V21M11.018 2.764 4.235 8.039c-.453.353-.68.53-.843.75a2 2 0 0 0-.318.65C3 9.704 3 9.991 3 10.565V17.8c0 1.12 0 1.68.218 2.108a2 2 0 0 0 .874.874C4.52 21 5.08 21 6.2 21h11.6c1.12 0 1.68 0 2.108-.218a2 2 0 0 0 .874-.874C21 19.48 21 18.92 21 17.8v-7.235c0-.574 0-.861-.074-1.126a2 2 0 0 0-.318-.65c-.163-.22-.39-.397-.843-.75l-6.783-5.275c-.351-.273-.527-.41-.72-.462a1 1 0 0 0-.523 0c-.194.052-.37.189-.721.462'/%3e%3c/svg%3e" alt="Home Icon" class="nav-icon">Home</a>
+    <a href="courses.html"><img src="data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg' fill='none' stroke='%23222222' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' viewBox='0 0 24 24'%3e%3cpath d='M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z'/%3e%3c/svg%3e" alt="Courses Icon" class="nav-icon">Courses</a>
+    <a href="daily.html"><img src="data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24'%3e%3cpath stroke='%23222222' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M12 6v6l4 2m6-2c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10'/%3e%3c/svg%3e" alt="Daily Icon" class="nav-icon">Daily</a>
+  </div>
+
+  <div class="nav-right">
+    <div class="stat-box">
+      <img src="data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24'%3e%3cpath stroke='%23222222' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M14.25 2H8.493c-.18 0-.27 0-.348.027a.5.5 0 0 0-.187.116c-.06.058-.1.139-.18.3l-4.2 8.4c-.192.383-.288.574-.265.73a.5.5 0 0 0 .208.337c.129.09.343.09.772.09h6.205l-3 10L19.694 9.355c.411-.426.617-.64.629-.822a.5.5 0 0 0-.177-.415C20.005 8 19.71 8 19.117 8h-7.118z'/%3e%3c/svg%3e" alt="Streak">
+      <span id="streakCount">3</span>
+    </div>
+    
+
+    <div class="stat-box">
+      <img src="data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24'%3e%3cpath stroke='%23222222' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2.39 18.098 8.225-14.206c.455-.785.682-1.178.979-1.31a1 1 0 0 1 .812 0c.297.132.524.525.978 1.31l8.225 14.206c.456.788.685 1.182.65 1.506a1 1 0 0 1-.406.705c-.263.191-.718.191-1.628.191H3.775c-.91 0-1.366 0-1.629-.191a1 1 0 0 1-.406-.705c-.034-.324.194-.718.65-1.506'/%3e%3c/svg%3e" alt="Points">
+      <span>120</span>
+    </div>
+    <div class="profile" id="profileIcon">E
+      <div class="profile-menu" id="profileMenu">
+        <a href="#">Profile</a>
+        <a href="#">Settings</a>
+        <a href="#">Logout</a>
+      </div>
+    </div>
+  </div>
+</nav>
+</nav>
+
+<main class="courses-page">
+  <header class="courses-header">
+    <h1>Courses</h1>
+    <p>Build olympiad-level depth with guided paths and level-by-level progression.</p>
+  </header>
+
+  <section class="subject-block">
+    <div class="subject-title-wrap">
+      <img src="data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg' data-name='Layer 1' viewBox='0 0 24 24'%3e%3cpath fill='none' stroke='%23222222' stroke-miterlimit='10' stroke-width='1.5' d='M.52 5.28h9.57M5.3.5v9.57m-3.82 4.78 7.65 7.65m0-7.65L1.48 22.5M13.91 5.28h9.57m-9.57 13.39h9.57m-5.74-3.82h1.91m-1.91 7.65h1.91'/%3e%3c/svg%3e" alt="Mathematics icon" class="subject-icon">
+      <h2>Mathematics</h2>
+    </div>
+    <div class="topic-grid">
+      <button class="topic-card" data-topic="combinatorics">
+        <img src="img/25001136_7045128.svg" alt="Combinatorics">
+        <span>Combinatorics</span>
+      </button>
+      <button class="topic-card coming-soon-card" data-topic="number-theory">
+        <img src="img/20945992.jpg" alt="Number Theory">
+        <span>Number Theory</span>
+      </button>
+      <button class="topic-card coming-soon-card" data-topic="geometry">
+        <img src="img/21887974_6541630.svg" alt="Geometry">
+        <span>Geometry</span>
+      </button>
+      <button class="topic-card coming-soon-card" data-topic="algebra">
+        <img src="img/6655824.jpg" alt="Algebra">
+        <span>Algebra</span>
+      </button>
+    </div>
+  </section>
+
+  <section class="subject-block">
+    <div class="subject-title-wrap">
+      <img src="data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg' data-name='Layer 1' viewBox='0 0 24 24'%3e%3cpath fill='none' stroke='%23222222' stroke-miterlimit='10' stroke-width='1.5' d='M7.23 6.27 1.5 12l5.73 5.73m9.54 0L22.5 12l-5.73-5.73m-1.91 0L9.14 17.73'/%3e%3c/svg%3e" alt="Computer Science icon" class="subject-icon">
+      <h2>Computer Science</h2>
+    </div>
+    <div class="topic-grid">
+      <button class="topic-card coming-soon-card"><img src="img/12470222_Wavy_Tech-01_Single-11.jpg" alt="Search Algorithms"><span>Search Algorithms</span></button>
+      <button class="topic-card coming-soon-card"><img src="img/Wavy_Bus-14_Single-11.jpg" alt="Graph Theory"><span>Graph Theory</span></button>
+      <button class="topic-card coming-soon-card"><img src="img/25001168_7040910.jpg" alt="Dynamic Programming"><span>Dynamic Programming</span></button>
+      <button class="topic-card coming-soon-card"><img src="img/25001216_7040861.svg" alt="Greedy Methods"><span>Greedy Methods</span></button>
+    </div>
+  </section>
+
+  <section class="subject-block">
+    <div class="subject-title-wrap">
+      <img src="data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg' data-name='Layer 1' viewBox='0 0 24 24'%3e%3cellipse cx='12' cy='12' fill='none' stroke='%23222222' stroke-miterlimit='10' stroke-width='1.5' rx='3.82' ry='10.5'/%3e%3cellipse cx='12' cy='12' fill='none' stroke='%23222222' stroke-miterlimit='10' stroke-width='1.5' rx='3.82' ry='10.5' transform='rotate(-60 12 11.997)'/%3e%3cellipse cx='12' cy='12' fill='none' stroke='%23222222' stroke-miterlimit='10' stroke-width='1.5' rx='10.5' ry='3.82' transform='rotate(-30 12.005 11.997)'/%3e%3c/svg%3e" alt="Physics icon" class="subject-icon">
+      <h2>Physics</h2>
+    </div>
+    <div class="topic-grid">
+      <button class="topic-card coming-soon-card"><img src="img/20943472.jpg" alt="Magnetism"><span>Magnetism</span></button>
+      <button class="topic-card coming-soon-card"><img src="img/10780443_19199055.jpg" alt="Mechanics"><span>Mechanics</span></button>
+      <button class="topic-card coming-soon-card"><img src="img/19199250.jpg" alt="Thermodynamics"><span>Thermodynamics</span></button>
+      <button class="topic-card coming-soon-card"><img src="img/Wavy_Bus-18_Single-11.jpg" alt="Optics"><span>Optics</span></button>
+    </div>
+  </section>
+</main>
+
+<section id="roadmapPanel" class="roadmap-overlay hidden" aria-live="polite">
+  <div class="roadmap-layout">
+    <div class="roadmap-top">
+      <p class="roadmap-kicker">Course</p>
+      <h2 id="roadmapCourseTitle">Mathematics</h2>
+      <h3 id="roadmapSubcourseTitle">Combinatorics</h3>
+      <p id="roadmapDescription">Learn counting principles and olympiad strategies through structured levels. Finish each level to unlock the next.</p>
+      <div class="roadmap-header">
+        <h3>Level Roadmap</h3>
+        <button type="button" id="closeRoadmap">Close</button>
+      </div>
+    </div>
+    <div class="level-list" id="levelList"></div>
+    </div>
+</section>
+
+<section id="slidesPanel" class="slides-overlay hidden" aria-live="polite">
+  <div class="slides-shell">
+    <div class="slides-header">
+      <h3 id="slideLevelTitle">Level 1</h3>
+      <button type="button" id="closeSlides">Exit level</button>
+    </div>
+    <article class="slide-body" id="slideBody"></article>
+    <div class="slide-controls">
+      <button type="button" id="prevSlide">◀ Previous</button>
+      <span id="slideCounter">1 / 1</span>
+      <button type="button" id="nextSlide">Next ▶</button>
+    </div>
+    <form id="slideQuiz" class="slide-quiz hidden" autocomplete="off">
+      <label for="quizAnswer">Your answer</label>
+      <div class="quiz-row">
+        <input type="text" id="quizAnswer" placeholder="Type your answer">
+        <button type="submit" id="submitAnswer">Submit</button>
+      </div>
+      <p id="quizFeedback" class="quiz-feedback"></p>
+    </form>
+  </div>
+</section>
+
+<div id="comingSoonToast" class="toast hidden">Coming soon 🚧</div>
+
+<script src="js/courses.js"></script>
+</body>
+</html>

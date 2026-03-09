@@ -1,0 +1,320 @@
+.courses-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 8rem;
+}
+
+.courses-header h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.4rem;
+}
+
+.courses-header p {
+  color: #475569;
+  margin-bottom: 2rem;
+}
+
+.subject-block {
+  background: transparent;
+  border: none;
+  padding: 0;
+  box-shadow: none;
+  margin-bottom: 2rem;
+}
+
+.subject-title-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.subject-title-wrap h2 {
+  margin: 0;
+  line-height: 1.2;
+}
+
+.subject-icon {
+  width: 36px;
+  height: 36px;
+}
+
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.9rem;
+}
+
+.topic-card {
+  border: 1px solid #dbe4f0;
+  background: #fff;
+  border-radius: 14px;
+  padding: 0.65rem;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.topic-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(30, 41, 59, 0.08);
+}
+
+.topic-card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 0.6rem;
+}
+
+.topic-card span {
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.roadmap-overlay,
+.slides-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.96);
+  z-index: 300;
+  padding: 2rem;
+}
+
+.roadmap-layout,
+.slides-shell {
+  height: 100%;
+  max-width: 980px;
+  margin: 0 auto;
+  background: #ffffff;
+  border-radius: 24px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 20px 50px rgba(15, 23, 42, 0.08);
+  padding: 1.4rem;
+}
+
+.roadmap-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.roadmap-top {
+  padding: 0.2rem 0.4rem;
+}
+
+.roadmap-kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #64748b;
+  font-size: 0.75rem;
+  margin-bottom: 0.8rem;
+}
+
+#roadmapCourseTitle {
+  font-size: 2rem;
+  margin-bottom: 0.15rem;
+}
+
+#roadmapSubcourseTitle {
+  font-size: 1.5rem;
+  color: #1d4ed8;
+  margin-bottom: 0.8rem;
+}
+
+#roadmapDescription {
+  color: #475569;
+  line-height: 1.5;
+  margin-bottom: 0.8rem;
+}
+
+.roadmap-header,
+.slides-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.8rem;
+}
+
+.level-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  overflow-y: auto;
+  padding: 0.2rem 0.6rem 0.2rem 1.8rem;
+  position: relative;
+}
+
+.level-list::before {
+  content: '';
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(180deg, #bfdbfe, #93c5fd 45%, #e2e8f0);
+  border-radius: 999px;
+}
+
+.level-btn {
+  width: 100%;
+  text-align: left;
+  border: 1px solid #cbd5e1;
+  border-radius: 14px;
+  padding: 1rem;
+  background: #f8fafc;
+  cursor: not-allowed;
+  opacity: 0.65;
+  position: relative;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.level-btn::before {
+  content: '';
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  border-radius: 999px;
+  left: -1.6rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: #cbd5e1;
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 2px #e2e8f0;
+}
+
+.level-btn.unlocked {
+  cursor: pointer;
+  opacity: 1;
+  background: #eff6ff;
+  border-color: #93c5fd;
+}
+
+.level-btn.unlocked::before {
+  background: #3b82f6;
+}
+
+.level-btn.done {
+  background: #ecfdf5;
+  border-color: #6ee7b7;
+}
+
+.level-btn.done::before {
+  background: #10b981;
+}
+
+.level-btn.unlocked:hover {
+  transform: translateX(4px);
+  box-shadow: 0 8px 22px rgba(59, 130, 246, 0.14);
+}
+
+.slides-shell {
+  display: flex;
+  flex-direction: column;
+}
+
+.slide-body {
+  flex: 1;
+  background: #f8fafc;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  padding: 1.1rem;
+  line-height: 1.5;
+  white-space: pre-line;
+}
+
+.slide-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.slide-controls button,
+.roadmap-header button,
+.slides-header button,
+.quiz-row button {
+  border: none;
+  border-radius: 9px;
+  padding: 0.55rem 0.8rem;
+  background: #111827;
+  color: #fff;
+  cursor: pointer;
+}
+
+.slide-controls button:disabled,
+.quiz-row button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.slide-quiz {
+  margin-top: 0.9rem;
+  padding: 0.8rem;
+  border: 1px solid #dbeafe;
+  border-radius: 12px;
+  background: #f8fbff;
+}
+
+.slide-quiz label {
+  display: block;
+  margin-bottom: 0.45rem;
+  font-size: 0.9rem;
+  color: #334155;
+}
+
+.quiz-row {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.quiz-row input {
+  flex: 1;
+  border: 1px solid #bfdbfe;
+  border-radius: 10px;
+  padding: 0.55rem 0.7rem;
+  font-size: 0.94rem;
+}
+
+.quiz-feedback {
+  min-height: 1.2rem;
+  margin-top: 0.55rem;
+  color: #1e3a8a;
+  font-size: 0.88rem;
+}
+
+.quiz-feedback.success {
+  color: #047857;
+}
+
+.toast {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 1rem;
+  background: #0f172a;
+  color: #fff;
+  padding: 0.7rem 0.95rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  z-index: 500;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .roadmap-overlay,
+  .slides-overlay {
+    padding: 1rem;
+  }
+
+  .roadmap-layout,
+  .slides-shell {
+    padding: 1rem;
+  }
+
+  .quiz-row {
+    flex-direction: column;
+  }
+}
